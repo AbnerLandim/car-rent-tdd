@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f655c422-df11-4411-beac-6b66d3ca879d",
+    "name": "Explorer",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "feebfbac-2a6a-455d-aca2-038c9cda0c43",
+    "name": "El Camino",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "2f43d42a-e989-429e-9177-800b5d1d1b5b",
+    "name": "F-150",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
